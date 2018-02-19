@@ -1,6 +1,6 @@
 {
   "name": "wii-dialog",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,8 @@
     "wii-dialog"
   ],
   "author": "erikqin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "wii-core": "^1.0.2"
+  }
 }
